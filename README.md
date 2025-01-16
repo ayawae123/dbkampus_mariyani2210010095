@@ -1,6 +1,6 @@
 # Project UAS Visual 3 - Data Management Application
 
-Repositori ini berisi project akhir (UAS) untuk mata kuliah Visual 3, yang dikembangkan menggunakan Python. Aplikasi ini adalah sistem manajemen data untuk mata kuliah universitas menggunakan PyQt5 untuk antarmuka GUI dan MySQL untuk basis data.
+Repositori ini berisi project akhir (UAS) untuk mata kuliah Visual 3, yang dikembangkan menggunakan Python. Aplikasi ini adalah sistem manajemen data untuk mata kuliah Visual 3 menggunakan PyQt5 untuk antarmuka GUI dan MySQL untuk basis data.
 
 ## Fitur
 
